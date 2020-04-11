@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4c85de2.chunk.css",
-    "main.js": "/static/js/main.dff23e8d.chunk.js",
-    "main.js.map": "/static/js/main.dff23e8d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cee7b8e8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cee7b8e8.js.map",
-    "static/js/2.cd26b3b2.chunk.js": "/static/js/2.cd26b3b2.chunk.js",
-    "static/js/2.cd26b3b2.chunk.js.map": "/static/js/2.cd26b3b2.chunk.js.map",
+    "main.css": "/static/css/main.ee7d18f3.chunk.css",
+    "main.js": "/static/js/main.0b87419a.chunk.js",
+    "main.js.map": "/static/js/main.0b87419a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf746844.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf746844.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.938339fd.chunk.js": "/static/js/2.938339fd.chunk.js",
+    "static/js/2.938339fd.chunk.js.map": "/static/js/2.938339fd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3b86ccceca57ed6b6041d031206c9866.js": "/precache-manifest.3b86ccceca57ed6b6041d031206c9866.js",
+    "precache-manifest.264e49982887224be80d832be89edaf1.js": "/precache-manifest.264e49982887224be80d832be89edaf1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e4c85de2.chunk.css.map": "/static/css/main.e4c85de2.chunk.css.map",
-    "static/js/2.cd26b3b2.chunk.js.LICENSE.txt": "/static/js/2.cd26b3b2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.bffda894.svg"
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.ee7d18f3.chunk.css.map": "/static/css/main.ee7d18f3.chunk.css.map",
+    "static/js/2.938339fd.chunk.js.LICENSE.txt": "/static/js/2.938339fd.chunk.js.LICENSE.txt",
+    "static/media/belgie.png": "/static/media/belgie.7bef4dde.png",
+    "static/media/crash.png": "/static/media/crash.278aef0c.png",
+    "static/media/logo.svg": "/static/media/logo.bffda894.svg",
+    "static/media/style.css": "/static/media/space.29978dbc.jpg",
+    "static/media/spaceman.png": "/static/media/spaceman.176e6765.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cee7b8e8.js",
-    "static/js/2.cd26b3b2.chunk.js",
-    "static/css/main.e4c85de2.chunk.css",
-    "static/js/main.dff23e8d.chunk.js"
+    "static/js/runtime-main.bf746844.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.938339fd.chunk.js",
+    "static/css/main.ee7d18f3.chunk.css",
+    "static/js/main.0b87419a.chunk.js"
   ]
 }
